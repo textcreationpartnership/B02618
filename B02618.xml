@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the taking of Namur, by his Majesty. By Mr. Denne.</title>
+            <author>Denne, Mr. (Henry), b. 1670 or 1.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02618</idno>
+            <idno type="STC">Wing D1024B</idno>
+            <idno type="STC">ESTC R174597</idno>
+            <idno type="EEBO-CITATION">52212017</idno>
+            <idno type="OCLC">ocm 52212017</idno>
+            <idno type="VID">175644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175644)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2744:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the taking of Namur, by his Majesty. By Mr. Denne.</title>
+                  <author>Denne, Mr. (Henry), b. 1670 or 1.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Cumberland, at the Angel in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatory signed: Henry Denne.</note>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns --  Namur --  Poetry.</term>
+               <term>Namur (Belgium) --  History --  Siege, 1695 --  Poetry.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175644:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <p>A POEM ON THE TAKING OF NAMUR, By His MAJESTY.</p>
+            <q>
+               <l>—Tu maximus Ille es,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nus qui nobis cunctando reſtituis Rem.</l>
+               <bibl>
+                  <hi>Virgil<g ref="char:punc">▪</g>
+                  </hi>
+               </bibl>
+            </q>
+            <p>By Mr. <hi>DENNE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Cumberland,</hi> at the <hi>Angel</hi> in St. <hi>Paul</hi>'s Church-yard, 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:175644:2"/>
+            <!-- PDF PAGE 93 -->
+            <pb facs="tcp:175644:2"/>
+            <!-- PDF PAGE 93 -->
+            <head>TO THE RIGHT HONOURABLE THE Lord CUTTS.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SO many Reaſons concur to frame an Excuſe for my Dedica<g ref="char:EOLhyphen"/>ting a thing of this nature to your Lordſhip, that nothing but the Quality of the Preſent can refute 'em. And I can ſcarce diſcharge my Conſcience without freely owning it the Reſult of that Flame, which the repeated Inſtances of your Valour, unavoidably kindled in me. There's ſo much of the Hero in all your <g ref="char:V">Ʋ</g>ndertakings, that they can't but inflame the dawning, and revive the dying Courage: For Light muſt have its Reflexi<g ref="char:EOLhyphen"/>on; the Sun and Heat are inſeparable, and whate're it Touches it Warms. My Lord, Your Pen has teſtify'd your Contempt of Flattery: But all the World confeſſes there appears in Your Lordſhip ſomething ſo eminently great, that it ex<g ref="char:EOLhyphen"/>cludes the Poſſibility of it. And we may well return upon you, my Lord, what you once ſaid of our Late ever bleſſed Queen; <hi>Your Soul is toucht with a Spark of that Fire, which warms the Hearts of Angels, and kindles Mortality into Deſires that are immortal: It inveſts you with ſomething ſo glo<g ref="char:EOLhyphen"/>rious and divine, that we can never have Eyes enough to admire you, nor Tongues enough to praiſe you.</hi> And here, my Lord, you have drawn your own Picture, and none but your own Pen is worthy to deſcribe You. But Providence has made You ſo eminently ſerviceable to his Majeſty and your Country, that 'tis but our Duty to bring You thoſe Lawrels which You have ſo much to your Coſt, and for our Security, deſerv'd. When Dan<g ref="char:EOLhyphen"/>ger appear'd emphatically itſelf, and needed no Imagination to enlarge it; when Death ſtood with his Dart almoſt viſible, and Heroes too much diſcover'd the Man, and recoyl'd at the Ap<g ref="char:EOLhyphen"/>prehenſion;
+<pb facs="tcp:175644:3"/>
+               <!-- PDF PAGE 94 -->then there appear'd in Your Lordſhip that Peculi<g ref="char:EOLhyphen"/>arity of Soul, that Spark of Fire, which urg'd you on to out<g ref="char:EOLhyphen"/>face Deſtruction, and even terrify the King of Terrors: Then You did in the higheſt ſence <hi>Virtutem extendere factis.</hi> We ſee in You that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is ſo obſervable in ſome Souls, that we queſtion our Alliance to them, and not improbably fancy them of a ſublimer Species. And ſince the Antients rank'd thoſe who were above the ordinary Level among their Divinities, why may not we think there is ſome Diſcri<g ref="char:EOLhyphen"/>mination, tho not corporeal, yet perhaps ſpiritual, between them and quotidian Souls, that they have ſome peculiar Tincture of Divinity, and are a Kind of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Mixture of Natures? But now, My Lord, perhaps I'me guilty of too much Flame and Digreſſion: But if ever any Conſideration can give Riſe to ſuch a Thought, 'tis when I think upon your Lordſhip; and I can't but incline to the Opinion, and almoſt maintain it, when Your Lordſhip's Actions are ſuch ſtrong Aſſerters of it.</p>
+            <p>But, My Lord, I have many Reaſons that plead for my Dedi<g ref="char:EOLhyphen"/>cation of this enſuing Concern to Your Lordſhip: Not only the <hi>Quorum pars magna fuiſti,</hi> and your being ſo ſignally eminent in this Action, an Action which ſilences the loud Encomiums of <hi>Boileau,</hi> and transfers the unwilling Praiſes deſign'd for <hi>Lewis</hi> upon his Majeſty King <hi>William,</hi> as Mr. <hi>Motteux</hi> has happily done, and makes the <hi>French</hi> Academies ſubſervient to the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Glory; Not only that You have formerly honour'd the Muſes with Your Inclinations: But, my Lord, You have before You a Muſe educated in your own County, recreated in the ſame; ev'n in your own Groves, drawing the ſame Air, and which ſaw how happily the <g ref="char:V">Ʋ</g>niverſity of <hi>Cambridge</hi> diſcover'd her Judg<g ref="char:EOLhyphen"/>ment, when ſhe choſe Your Lordſhip her Repreſentative, and ſo willingly ſeconded the Inclinations of the reſt of the Kingdom. I queſtion not, but that Illuſtrious Academy will be eager to ſend her Muſes to congratulate Your Lordſhip's Safety and Ho<g ref="char:EOLhyphen"/>nour; amidſt whom I hope you will pardon the perhaps too for Zeal of</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhip's, Moſt Humble, Obedient, and Devoted Servant,</hi> Henry Denne.</signed>
+               <dateline>
+                  <hi>Trinity College,</hi> Cambridge.</dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:175644:3"/>
+            <!-- PDF PAGE 94 -->
+            <head>ON THE SIEGE OF NAMUR.</head>
+            <lg>
+               <l>ONce more, my Muſe, thy <hi>William</hi> is thy Theme;</l>
+               <l>The <hi>Briton</hi>'s Glory, and the VVorld's Eſteem.</l>
+               <l>Thy utmoſt Thoughts the wondrous Man requires,</l>
+               <l>Heroic VVarmth; for He himſelf inſpires.</l>
+               <l>Exhauſt thy Soul upon that mighty Name,</l>
+               <l>And, to right <hi>William,</hi> ſound as loud as Fame.</l>
+               <l>But oh his worth is boundleſs as his Mind;</l>
+               <l>He ſoars and leaves the flagging Muſe behind.</l>
+               <l>So ſees the tow'ring Eagle from a far</l>
+               <l>The Linnet flutt'ring in inferior Air.</l>
+               <l>Each Year new Themes of Glory muſt afford,</l>
+               <l>When <hi>William</hi>'s arm'd, and weilds the <hi>Britiſh</hi> Sword.</l>
+               <l>His Enſign rear'd attending Annals wait,</l>
+               <l>All <hi>Europe</hi>'s huſht, and Fame appears in State,</l>
+               <l>As at ſome wondrous Birth of long contriving Fate.</l>
+               <l>For he's not call'd but when the VVorld's at ſtake,</l>
+               <l>And when its Freedom's ſtrong Supporters ſhake.</l>
+               <l>Some <hi>Lewis</hi> (Fate commanding) muſt dccline,</l>
+               <l>And to a worthier Brow his Crown reſign.</l>
+               <l>On other Thoughts I ſtrain; th' unwilling Fire</l>
+               <l>Lies long conceal'd, nor anſwers my Deſire:</l>
+               <pb n="2" facs="tcp:175644:4"/>
+               <!-- PDF PAGE 95 -->
+               <l>But when Heroic <hi>William</hi> is the Theme</l>
+               <l>My Muſe obeys; and, like ſome gentle Stream,</l>
+               <l>That ſoftly ſinks beneath the riſing Swan,</l>
+               <l>Flows in an eaſy, and a willing ſtrain:</l>
+               <l>Then on I'll go before the vulgar Throng;</l>
+               <l>A Zeal like mine demands an early Song.</l>
+               <l>Yet ſtay my Muſe; and ſince your Aim's ſo high,</l>
+               <l>Prune your young Wings, the feeble Pinions try,</l>
+               <l>E're you preſume to mount the dang'rous Sky.</l>
+               <l>Yet hark! what Shouts ariſe! what Armies thoſe!</l>
+               <l>What Hero's That, who preſſes on his Foes!</l>
+               <l>It muſt be <hi>William.</hi> Haſte my Muſe, and run,</l>
+               <l>Preſent your Laurels e're the Shouts are done;</l>
+               <l>Like morning Larks that mount to meet the Sun.</l>
+               <l>Again, what Noiſe! Ah! humbled <hi>Lewis</hi> falls;</l>
+               <l>While <hi>Britiſh</hi> Enſigns, from the conquer'd Walls,</l>
+               <l>Wave at the backs of the retreating <hi>Gauls.</hi>
+               </l>
+               <l>See <hi>Britain</hi>'s Worthies! ſee <hi>Batavia</hi>'s there!</l>
+               <l>How god-like, how adorably ſevere</l>
+               <l>Their <hi>William</hi> looks, while routed Foes deſpair!</l>
+               <l>View him, bold <hi>Kneller,</hi> and when e're you draw</l>
+               <l>The God of War and Conqueſt, paint <hi>Naſſau.</hi>
+               </l>
+               <l>Oh! what a Rapture to a Martial Eye</l>
+               <l>In dire Array, and dreadful Pomp to ſpy</l>
+               <l>Armies reſolv'd to conquer, or to dye!</l>
+               <l>Methinks I ſee the matchleſs Feats of Arms</l>
+               <l>At <hi>Namur</hi> wrought. Oh how my Soul it warms!</l>
+               <l>The Tents are fixt, ſurrounding Bands incloſe</l>
+               <l>Within their rocky Forts the num'rous Foes.</l>
+               <l>New ſparks of Honour dignify the Brave:</l>
+               <l>Againſt the Walls their eager Swords they wave.</l>
+               <l>
+                  <hi>William,</hi> their Soul, the diff'rent Parties joyn'd,</l>
+               <l>Their daring Enſigns ſtreaming in the Wind.</l>
+               <pb n="3" facs="tcp:175644:4"/>
+               <!-- PDF PAGE 95 -->
+               <l>While Arms on Arms, reflecting dreadful Rays,</l>
+               <l>Affright the Foes, who from their Ramparts gaze.</l>
+               <l>And now each Gen'ral to his Poſt repairs,</l>
+               <l>And urges Glory to the liſt'ning Ears</l>
+               <l>Of martial Souls; while deaf'ning ſhouts ariſe,</l>
+               <l>And each aloud the Neighb'ring <hi>Gauls</hi> defies.</l>
+               <l>
+                  <hi>Namur,</hi> the deſtin'd Object of the War</l>
+               <l>Severely pleaſing, riſes in the Air:</l>
+               <l>So beauteous! that it tempts the Warrior's Eye:</l>
+               <l>So ſtrong! he wiſhes, but he dares not try.</l>
+               <l>Ev'n <hi>William</hi> pauſes, when its ſtrength he views;</l>
+               <l>All but the Hero would the Task refuſe.</l>
+               <l>Fenc'd with vaſt Rocks it ſtands, and ſeems to dare</l>
+               <l>The Siege of <hi>Europe</hi> joyning in a War.</l>
+               <l>Well might an Army there a Siege endure,</l>
+               <l>Where Fear, nay <hi>Lewis</hi> thought himſelf ſecure,</l>
+               <l>
+                  <hi>Lewis</hi> ſo nicely skill'd himſelf t' incloſe</l>
+               <l>With Lines, and Bars, and Ramparts from his Foes.</l>
+               <l>Firm as the craggy Rock on which it ſtands</l>
+               <l>A dreadful Caſtle all the Plains commands.</l>
+               <l>Tow'rs, Rav'lins, Bulwarks, all around appear,</l>
+               <l>So fortified by <hi>France,</hi> as if her Fate lay there.</l>
+               <l>Art finiſht there what Nature's Pow'r began,</l>
+               <l>To make the Rock impregnable to Man:</l>
+               <l>But more than man approaches; ſee from far,</l>
+               <l>The <hi>Britiſh</hi> Genius, and the God of War!</l>
+               <l>See <hi>William</hi> riding in imperial ſtate,</l>
+               <l>While ſubject Heroes on the Monarch wait!</l>
+               <l>His gen'rous Steed, while warlike Muſic plays,</l>
+               <l>As ſenſible of Glory, proudly neighs.</l>
+               <l>And as the Hero to his Bands draws nigh,</l>
+               <l>Applauding ſhouts ariſe, and rend the Sky.</l>
+               <l>So lookt bright <hi>Michael</hi> in the Plains above,</l>
+               <l>Heading the Seraph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, when for Heav'n he ſtrove.</l>
+               <pb n="4" facs="tcp:175644:5"/>
+               <!-- PDF PAGE 96 -->
+               <l>Scarce with more Zealth' Aetherial Armies flew,</l>
+               <l>Winging their March to the Satanic Crew,</l>
+               <l>Than <hi>Engliſh</hi> Warriors when the <hi>Gauls</hi> in view.</l>
+               <l>Yet to place Glory in a nobler Light,</l>
+               <l>And mount their Courage to the utmoſt height,</l>
+               <l>He tells what Fame to former <hi>Britons</hi> gave,</l>
+               <l>And thus addreſſes each attentive Brave.</l>
+            </lg>
+            <q>
+               <l>The Hour, Ye gen'rous <hi>Britons,</hi> now is come,</l>
+               <l>That treach'rous <hi>France</hi> muſt feel her dreaded Doom.</l>
+               <l>Fate ſtrikes by you; and Kingdoms, that depend</l>
+               <l>On this Event, muſt ſee their Dangers end.</l>
+               <l>
+                  <hi>Gauls</hi> wait for Promiſes and gilded Words;</l>
+               <l>There needs no whetting to the <hi>Britiſh</hi> Swords.</l>
+               <l>I'll not detain you, nor prolong their Pride:</l>
+               <l>Go on, and Conqueſt right the injur'd ſide!</l>
+               <l>Now make the Slaves, as once at <hi>Crecy,</hi> bow,</l>
+               <l>And veil their Laurels to the <hi>Britiſh</hi> Brow:</l>
+               <l>As once, where e're your Enſigns were diſplaid,</l>
+               <l>Submiſſive Nations willing homage paid;</l>
+               <l>Your Kings ſtood Umpires of diſſenting Crowns,</l>
+               <l>And ſettled tott'ring Monarchs on their Thrones.</l>
+               <l>Now let deceas'd <hi>Maria</hi>— (at that word</l>
+               <l>The Hero ſigh'd) edge every loyal Sword.</l>
+            </q>
+            <lg>
+               <l>He ſtopp'd. The <hi>Britains</hi> full of <hi>William</hi> roſe:</l>
+               <l>Again they ſhout, and fright the wondring Foes.</l>
+               <l>The Signal giv'n, up flies a fiery Bomb,</l>
+               <l>Hizzing amidſt the Clouds, and brings the Doom</l>
+               <l>Of Squadrons: Now another ſeen from far</l>
+               <l>Glares like a Meteor, while it burns the Air.</l>
+               <l>Again another, and another now;</l>
+               <l>Hundreds at once fly in a dreadful Row,</l>
+               <l>And ſcatter Ruine on the Town and Foe.</l>
+               <l>But lo! ſome monſtrous Globe is rear'd in ſtate,</l>
+               <l>Glowing with Flame, and big with hidden Fate.</l>
+               <pb n="5" facs="tcp:175644:5"/>
+               <!-- PDF PAGE 96 -->
+               <l>Blown with ſulphureous breath the Engine flies,</l>
+               <l>Mounting with dreadful <hi>Syrma</hi> thro the Skies.</l>
+               <l>The Planets, and thoſe num'rous Worlds above,</l>
+               <l>Affrighted, from their ſtated Order move.</l>
+               <l>Triumphant Fate away mean Wretches bears,</l>
+               <l>And falling Nobles mourn unfiniſht years.</l>
+               <l>Urg'd by Succeſs the Engineers apply</l>
+               <l>Diſmiſſive Flame, and Legions upwards fly;</l>
+               <l>Like bearded Comets in a fiery Tract;</l>
+               <l>But Comets can but threaten what theſe act.</l>
+               <l>Aloft the dreadful <hi>Phaetons</hi> aſpire;</l>
+               <l>The trembling Crouds cry out the World's on fire</l>
+               <l>The Shades retreat, as tho the day's begun,</l>
+               <l>While theſe ſupply the place of the departed Sun.</l>
+               <l>Now they deſcend, and, threat'ning all below,</l>
+               <l>Ruſh down with Vengeance on the ſcatt'ring Foe.</l>
+               <l>The <hi>French,</hi> provok'd by the prevailing Flame,</l>
+               <l>From their ſtrong Battlemenrs return the ſame.</l>
+               <l>A hundred brazen Mouths from far aſſail</l>
+               <l>Th' unſhelter'd Brave, with fatal Iron Hail.</l>
+               <l>Then out they ſally, but <hi>Cutts</hi> ready ſtands</l>
+               <l>With wakeful Courage and well order'd Bands,</l>
+               <l>And meets the Foes: They, ſhameful to retire,</l>
+               <l>Now ſtand, now fall, now faulter, now expire,</l>
+               <l>Urg'd by the <hi>Britiſh</hi> Sword and <hi>Britiſh</hi> Fire.</l>
+               <l>A few eſcape and to their Friends declare,</l>
+               <l>How reſolute, how brave the <hi>Britons</hi> are;</l>
+               <l>How fond to meet, how careleſs of their fate,</l>
+               <l>Reſolv'd for Fame, impatient to be great.</l>
+               <l>Here <hi>Britiſh</hi> Chiefs watch the commanding word,</l>
+               <l>Fledg'd with new Honors from their Royal Lord,</l>
+               <l>Then each deſigns to ſignalize his Sword:</l>
+               <l>Scorning the vulgar Throng the Warrior flies,</l>
+               <l>Death marks his Aim, and Fate attends his Eyes.</l>
+               <pb n="6" facs="tcp:175644:6"/>
+               <!-- PDF PAGE 97 -->
+               <l>Forc'd by the fierce Aſſailers, now the <hi>Gauls</hi>
+               </l>
+               <l>Quit Poſt by Poſt; yet from their inmoſt Walls</l>
+               <l>They ſhun our Fury and withſtand our Balls.</l>
+               <l>I love the Thirſt of Fame tho in a Foe,</l>
+               <l>Who faces Danger with a ſettled Brow.</l>
+               <l>Such Souls are worthier of our <hi>William</hi>'s aim,</l>
+               <l>And raiſe their own by adding to his Fame.</l>
+               <l>Danger appears now eminently great,</l>
+               <l>And Death is ſerv'd in honourable ſtate.</l>
+               <l>A Mar'ſchal with an Army fights within,</l>
+               <l>All <hi>France</hi> without, is with a Mar'ſchal ſeen.</l>
+               <l>All <hi>France,</hi> that's drein'd to keep th' important Town,</l>
+               <l>Swears to prevent th' Eclipſe of her Renown;</l>
+               <l>Her utmoſt Force comes on, but ſtops at <hi>William</hi>'s Frown.</l>
+               <l>He then ordains th' Aſſault, that <hi>France</hi> may know,</l>
+               <l>He can take Towns, like her, and face a Foe.</l>
+               <l>Towns ſtronger yet than e're their Armies took,</l>
+               <l>While twice our Number on our Valour look.</l>
+               <l>But who's the fitteſt found in <hi>William</hi>'s Eye,</l>
+               <l>Who dares the World's Applauſe ſo dearly buy,</l>
+               <l>As to lead on, and climb the dreadful Walls,</l>
+               <l>Whence inſtant Ruine on th' Aſſailers falls,</l>
+               <l>And thro bad Ways, and narroweſt Breaches fly</l>
+               <l>Where Crouds of Braves in ſtrong Intrenchments lye?</l>
+               <l>'Tis <hi>Cutts.</hi> Now, Fame, thy hundred Mouths prepare,</l>
+               <l>The Hero's Praiſe to diſtant Shores to bear.</l>
+               <l>Sing him, ye Bards, who love the banks of <hi>Cham,</hi>
+               </l>
+               <l>Ev'n infant Muſes muſt repeat his Name.</l>
+               <l>He too once felt the Muſes gentle Fire,</l>
+               <l>When he vouchſaft to ſtrike the charming Lyre.</l>
+               <l>Brave Soul, you needs muſt ſcorn the vulgar Road,</l>
+               <l>Inſpir'd and guided by a double God.</l>
+               <l>See, up the ſteep aſcent the Hero flies!</l>
+               <l>By his ſure Hand ſome raſh Commander dies.</l>
+               <pb n="7" facs="tcp:175644:6"/>
+               <!-- PDF PAGE 97 -->
+               <l>Confed'rate Braves, whom his Example fires,</l>
+               <l>Aſſault the Foe, who by degrees retires,</l>
+               <l>And in his laſt Receſs would keep his hold;</l>
+               <l>By Danger fierce, by Deſperation bold,</l>
+               <l>The Luſt of Fame provokes their noble Rage<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <hi>William</hi> inſpires, and all like Gods ingage</l>
+               <l>But ſee, at laſt the Mar'ſchal's Valor fails;</l>
+               <l>O're <hi>Boufflers</hi> now ſuperior <hi>Cutts</hi> prevails.</l>
+               <l>The <hi>Gauls</hi> give way; their ſhort liv'd Courage ſinks,</l>
+               <l>And each on gen'rous <hi>William</hi>'s Mercy thinks.</l>
+               <l>Ev'n the proud Mar'ſchal, tho aſham'd, afraid</l>
+               <l>Conſents, and now the yielding Flag's diſplaid.</l>
+               <l>Unſated Death unwillingly gives o're;</l>
+               <l>Unſated Death, like <hi>Lewis,</hi> would have more.</l>
+               <l>While ſtretcht in State the penſive Monarch lies,</l>
+               <l>Detain'd by Fear, tho Honor bids him riſe.</l>
+               <l>On yielding Down majeſtically ſpread,</l>
+               <l>He dreams, and ſeems to threat'ning Danger dead.</l>
+               <l>He ſtrives by ſleep his anxious Thoughts to eaſe;</l>
+               <l>For, while awake, he inſtant Ruine ſees;</l>
+               <l>Fear antidates his Fate; before his Eyes</l>
+               <l>
+                  <hi>Namur</hi> ſurrenders, and his Army flies.</l>
+               <l>But lo! the Guardian Genius of his Crown,</l>
+               <l>The <hi>Gallic</hi> Demon, with a boding Frown,</l>
+               <l>Once more forewarns him to forſake his Down.</l>
+               <l>To urge him more, he o're his Pillow ſtood,</l>
+               <l>And ſtream'd upon him viſionary Blood.</l>
+               <l>And thus beſpeaks him—</l>
+            </lg>
+            <q>
+               <l>Sleep'ſt thou, <hi>Grand Monarch?</hi> What, in Slumbers found;</l>
+               <l>When round your Ears the <hi>Britiſh</hi> Trumpets ſound!</l>
+               <l>Shall the dull Pilot, when the Surges roar,</l>
+               <l>And mount, and beat, and rage; ſupinely ſnore?</l>
+               <l>And, careleſs of his Charge, the Rudder leave</l>
+               <l>An eaſy ſport to each inſulting Wave?</l>
+               <pb n="8" facs="tcp:175644:7"/>
+               <!-- PDF PAGE 98 -->
+               <l>
+                  <hi>William,</hi> prevailing <hi>William</hi> loudly calls,</l>
+               <l>Near the <hi>Mehaign,</hi> and <hi>Namur</hi>'s tott'ring Walls.</l>
+               <l>He calls Thee, but unanſwer'd in the Air</l>
+               <l>The ſound is loſt; no <hi>Lewis</hi> dares appear.</l>
+               <l>Ariſe; for now unfriendly Fame has ſpread,</l>
+               <l>The Town's your Rival's, and your Army's fled.</l>
+               <l>Triumphant <hi>William</hi> rides along the Plain,</l>
+               <l>While Nations freed adore the wondrous Man.</l>
+            </q>
+            <lg>
+               <l>At this he ſtarts, and ſoon the dreaded News</l>
+               <l>The Truth of the forewarning Viſion ſhews.</l>
+            </lg>
+            <lg>
+               <l>But now, my Muſe, confeſs your dying fire,</l>
+               <l>Nor to the height, you cannot reach, aſpire;</l>
+               <l>Own, own the Theme too great, and ſilently admire.</l>
+               <l>But in what Breaſt glows a Poetic Flame</l>
+               <l>Warm as the Monarch's, equal to his Fame?</l>
+               <l>Who ſhall in equal Verſe the Hero's worth proclaim?</l>
+               <l>Sure all muſt the ſuperior Task decline,</l>
+               <l>But<note n="*" place="bottom">The Right Honourable <hi>Mr. Charles Montague.</hi>
+                  </note> He who ſung the Monarch at the <hi>Boyne.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175644:7"/>
+            <!-- PDF PAGE 98 -->
+         </div>
+      </body>
+   </text>
+</TEI>
